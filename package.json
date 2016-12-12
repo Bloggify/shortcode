@@ -40,11 +40,6 @@
   },
   "homepage": "https://github.com/IonicaBizau/bloggify-shortcode#readme",
   "dependencies": {
-    "iterate-object": "^1.3.2",
-    "showdown-highlight": "^1.0.0"
-  },
-  "bloggify": {
-    "config": {
-    }
+    "iterate-object": "^1.3.2"
   }
 }
