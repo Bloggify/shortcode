@@ -1,6 +1,6 @@
 {
   "name": "bloggify-shortcode",
-  "description": "Highlight code blocks in the Markdown code.",
+  "description": "Shortcode plugin for Bloggify.",
   "keywords": [
     "bloggify",
     "markdown",
