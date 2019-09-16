@@ -35,12 +35,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-shortcode.git"
+    "url": "git+ssh://git@github.com/Bloggify/shortcode.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-shortcode/issues"
+    "url": "https://github.com/Bloggify/shortcode/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-shortcode#readme",
+  "homepage": "https://github.com/Bloggify/shortcode#readme",
   "dependencies": {
     "iterate-object": "^1.3.2"
   }
